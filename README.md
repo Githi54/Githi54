@@ -24,7 +24,7 @@ I’m always excited to work on interesting projects and collaborate with fellow
 
 📫 **Contact Me:**  
 ✉️ havrilyukmikita@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://your-portfolio-link.com)  
+🔗 [LinkedIn](https://www.linkedin.com/) 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T21KI59D)
 ---
 
