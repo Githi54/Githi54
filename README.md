@@ -14,9 +14,9 @@ I’m a Full-Stack Developer with a passion for building scalable, efficient, an
 - Implement **best practices** in software engineering, testing, and code optimization  
 
 🌟 **Skills & Tools**  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Node.js, Express, MongoDB, SQL  
-- **DevOps:** Git, GitHub, Docker, CI/CD  
+- **Frontend:** HTML, CSS, JavaScript, Typescript, React, Tailwind CSS, PostCSS, Next.js
+- **Backend:** Node.js, Express, MongoDB, SQL, Nest.js, FastApi, GoLang, Ruby on Rails
+- **DevOps:** Git, GitHub, Docker, CI/CD, Terraform, AWS(S3, Amplify, VPC), Google Claude tools
 - **Other:** REST APIs, Agile/Scrum, Problem Solving  
 
 💬 **Let’s Collaborate!**  
@@ -25,7 +25,7 @@ I’m always excited to work on interesting projects and collaborate with fellow
 📫 **Contact Me:**  
 ✉️ havrilyukmikita@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://your-portfolio-link.com)  
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T21KI59D)
 ---
 
 ### ⚡ Fun Facts
@@ -37,4 +37,4 @@ I’m always excited to work on interesting projects and collaborate with fellow
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T21KI59D)
+
