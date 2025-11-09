@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mykyta Havrilyuk
 
-### 🚀 Full-Stack Developer | Passionate Problem Solver | Lifelong Learner
+### 🚀 Software Engineer | Passionate Problem Solver | Lifelong Learner
 
 ---
 
 🌱 **About Me**  
-I’m a Full-Stack Developer with a passion for building scalable, efficient, and visually appealing web applications. I love tackling challenging problems and turning ideas into reality with clean, maintainable code.
+I’m a Software Engineer with a passion for building scalable, efficient, and visually appealing web applications. I love tackling challenging problems and turning ideas into reality with clean, maintainable code.
 
 💻 **What I Do**  
 - Build **responsive web applications** using modern technologies (React, Node.js, Express, MongoDB, etc.)  
