@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mykyta Havrilyuk
+# 👋 Hi, I'm Mykyta
 
 ### 🚀 Software Engineer | Passionate Problem Solver | Lifelong Learner
 
