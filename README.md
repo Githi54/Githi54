@@ -18,6 +18,7 @@ I’m a Software Engineer with a passion for building scalable, efficient, and v
 - **Backend:** Node.js, Express, MongoDB, SQL, Nest.js, FastApi, Ruby on Rails, Django
 - **Mobile:** Flutter
 - **Programing language:s** Typescript, JavaScript, Python, Dart, Ruby
+- **Databases:** MongoDB, PostgreSQL, TimescaleDB
 - **DevOps:** Git, GitHub, Docker, CI/CD, Terraform, AWS(S3, Amplify, VPC)
 - **Other:** REST APIs, Agile/Scrum, Problem Solving  
 
@@ -31,10 +32,10 @@ I’m always excited to work on interesting projects and collaborate with fellow
 ---
 
 ### ⚡ Fun Facts
-- Always learning the latest in tech  
+- Have a 4-6 gym trainings per week 🏋
 - Coffee enthusiast ☕  
-- Enjoy solving algorithm challenges  
-
+- Enjoy solving algorithm challenges🧮
+- Books and Comics fan 📚
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
